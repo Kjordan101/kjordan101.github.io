@@ -15,7 +15,7 @@ Student Researcher
 - Completed a capstone project in which I analyzed economic data using Python to better understand how economic indicators correlated with GDP.
 
 ## Projects
-**Cyclistic Bike Share Case Study** 
+**[Cyclistic Bike Share Case Study](https://github.com/Kjordan101/cyclistic-bike-share/blob/main/cyclistic-bike-share-case-study.ipynb)** 
 - Developed a case study using data from a fictional bike sharing company Cyclistic as a capstone project for the Google Data Analytics Professional Certificate.
 - Compiled data from across multiple CSVs into a single dataframe in order to organize data efficiently.
 - Utilized libraries such as tidyr, dplyr, and ggplot in R to clean, manipulate, and visualize data from a data frame of over 1 million entries.
