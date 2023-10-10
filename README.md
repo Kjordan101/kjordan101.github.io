@@ -16,6 +16,7 @@
 **United States GDP Analysis [(demo)](https://www.kaggle.com/code/kevinjordan323232/gdp-analysis)**
 - Developed a case study utilizing economic data publicly available via the FRED database as a capstone project for the Google ExploreCSR program. 
 - Utilized libraries such as pandas, matplotlib, Seaborn, and plotly in Python to clean and visualize data leading to a better understanding of the correlation between US GDP and key Economic indicators.
+
 ## Work Experience
 **Certified Luxury Motors**
 Inventory Analyst
