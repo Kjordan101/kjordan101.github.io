@@ -4,7 +4,7 @@
 
 ## Education
 - B.A., Mathematics | Hunter College
-- Google Data Analytics Professional Certificate | 
+- [Google Data Analytics Professional Certificate](https://coursera.org/share/03b4c57628268ff2b48a142573241118) | 
 
 ## Projects
 **Cyclistic Bike Share Case Study [(demo)](https://www.kaggle.com/code/kevinjordan323232/cyclistic-bike-share-case-study/notebook)** 
