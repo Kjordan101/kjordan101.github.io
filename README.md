@@ -1,7 +1,7 @@
 # Data Analyst
-### Education
+## Education
 Hunter College | Bachelor of Arts in Mathematics, Minor in Economics
-### Work Experience
+## Work Experience
 **Certified Luxury Motors**
 Inventory Analyst
 - Utilized DMS software CDK Drive to organize purchasing data of over 5,000 vehicles as well as over 1,000 invoices.
