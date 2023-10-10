@@ -3,8 +3,8 @@
 #### Technical Skills: Python, SQL, R, Excel, Google Sheets
 
 ## Education
-- BA in Mathematics, Minor in Economics | **Hunter College**
-- **Google Data Analytics Professional Certificate**
+- BA, Mathematics, Minor in Economics | **Hunter College**
+- Google Data Analytics Professional Certificate
 
 ## Work Experience
 **Certified Luxury Motors**
