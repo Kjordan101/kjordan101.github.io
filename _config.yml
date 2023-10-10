@@ -1,5 +1,6 @@
 title: Kevin Jordan
-subtitle: Data Analyst
+author:
+  name: Kevin Jordan
+  email: 1jordankev@gmail.com
 show_downloads: false
-# theme: jekyll-theme-minimal
 theme: minima
