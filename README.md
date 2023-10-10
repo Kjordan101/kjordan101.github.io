@@ -1,3 +1,4 @@
+# Data Analyst
 ## Education
 Hunter College | Bachelor of Arts in Mathematics, Minor in Economics
 ## Work Experience
