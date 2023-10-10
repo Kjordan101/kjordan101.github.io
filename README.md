@@ -2,6 +2,7 @@
 #### Technical Skills: Python, SQL, R, Excel, Google Sheets
 ## Education
 **Hunter College** | Bachelor of Arts in Mathematics, Minor in Economics
+**Google Data Analytics Professional Certificate**
 ## Work Experience
 **Certified Luxury Motors**
 Inventory Analyst
