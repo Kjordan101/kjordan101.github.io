@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, R, Excel, Google Sheets
 
 ## Education
-- BA, Mathematics | **Hunter College**
+- BA, Mathematics | Hunter College
 - Google Data Analytics Professional Certificate
 
 ## Work Experience
