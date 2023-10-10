@@ -4,7 +4,7 @@
 
 ## Education
 - BA, Mathematics | Hunter College
-- Google Data Analytics Professional Certificate
+- Google Data Analytics Professional Certificate | 
 
 ## Work Experience
 **Certified Luxury Motors**
