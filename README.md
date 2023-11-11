@@ -14,14 +14,14 @@
 - Developed a dashboard using **Tableau** to highlight the most important findings of the case study.
 
 **Cyclistic Bike Share Case Study [(demo)](https://www.kaggle.com/code/kevinjordan323232/cyclistic-bike-share-case-study/notebook)** 
-- Developed a case study using data from a fictional bike sharing company Cyclistic as a capstone project for the Google Data Analytics Professional Certificate.
-- Compiled data from across multiple CSVs into a single dataframe in order to organize data efficiently.
+- Developed a case study using data from a fictional bike-sharing company Cyclistic as a capstone project for the Google Data Analytics Professional Certificate.
+- Compiled data from across multiple CSVs into a single data frame in order to organize data efficiently.
 - Utilized libraries such as **tidyr, dplyr, and ggplot in R** to clean, manipulate, and visualize data from a data frame of over 1 million entries.
 - Assessed user activity to locate business inefficiencies and created insightful visualizations to communicate these findings.
 
 **United States GDP Analysis [(demo)](https://www.kaggle.com/code/kevinjordan323232/gdp-analysis)**
 - Developed a case study utilizing economic data publicly available via the FRED database as a capstone project for the Google ExploreCSR program. 
-- Utilized libraries such as **pandas, matplotlib, Seaborn, and plotly in Python** to clean and visualize data leading to a better understanding of the correlation between US GDP and key Economic indicators.
+- Utilized libraries such as **Pandas, Matplotlib, Seaborn, and Plotly in Python** to clean and visualize data leading to a better understanding of the correlation between US GDP and key Economic indicators.
 
 ## Work Experience
 **Certified Luxury Motors**
