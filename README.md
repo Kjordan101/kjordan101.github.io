@@ -9,9 +9,9 @@
 ## Projects
 **Education's Effect on Income Case Study [(demo)](https://public.tableau.com/app/profile/kevin.jordan6632/viz/CareerProjecitonsbyEducation-dashboard/Dashboard1)**
 - Aggregated data available via the Bureau of Labor Statistics to study the effects of education on yearly income.
-- Utilized **Google Sheets** to clean data to be used in **Google BigQuery**
+- Utilized **Google Sheets** to clean data to be used in **Google BigQuery**.
 - Queried Data using **SQL** and **Python** via BigQuery API in order to develop visualizations and draw insight on employment data.
-- Developed a dashboard using **Tableau** to highlight the most important findings of the case study
+- Developed a dashboard using **Tableau** to highlight the most important findings of the case study.
 
 **Cyclistic Bike Share Case Study [(demo)](https://www.kaggle.com/code/kevinjordan323232/cyclistic-bike-share-case-study/notebook)** 
 - Developed a case study using data from a fictional bike sharing company Cyclistic as a capstone project for the Google Data Analytics Professional Certificate.
