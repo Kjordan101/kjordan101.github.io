@@ -7,15 +7,20 @@
 - [Google Data Analytics Professional Certificate](https://coursera.org/share/03b4c57628268ff2b48a142573241118) | 
 
 ## Projects
+**Education's Effect on Income Case Study**[(demo)](https://public.tableau.com/app/profile/kevin.jordan6632/viz/CareerProjecitonsbyEducation-dashboard/Dashboard1)
+- Aggregated data available via the Bureau of Labor Statistics to study the effects of education on yearly income.
+- Utilized **Google Sheets** to clean data to be used in **Google BigQuery**
+- Queried Data using **SQL** and **Python** via BigQuery API in order to develop visualizations and draw insight on employment data.
+- Developed a dashboard using **Tableau** to highlight the most important findings of the case study
 **Cyclistic Bike Share Case Study [(demo)](https://www.kaggle.com/code/kevinjordan323232/cyclistic-bike-share-case-study/notebook)** 
 - Developed a case study using data from a fictional bike sharing company Cyclistic as a capstone project for the Google Data Analytics Professional Certificate.
 - Compiled data from across multiple CSVs into a single dataframe in order to organize data efficiently.
-- Utilized libraries such as tidyr, dplyr, and ggplot in R to clean, manipulate, and visualize data from a data frame of over 1 million entries.
+- Utilized libraries such as **tidyr, dplyr, and ggplot in R** to clean, manipulate, and visualize data from a data frame of over 1 million entries.
 - Assessed user activity to locate business inefficiencies and created insightful visualizations to communicate these findings.
 
 **United States GDP Analysis [(demo)](https://www.kaggle.com/code/kevinjordan323232/gdp-analysis)**
 - Developed a case study utilizing economic data publicly available via the FRED database as a capstone project for the Google ExploreCSR program. 
-- Utilized libraries such as pandas, matplotlib, Seaborn, and plotly in Python to clean and visualize data leading to a better understanding of the correlation between US GDP and key Economic indicators.
+- Utilized libraries such as **pandas, matplotlib, Seaborn, and plotly in Python** to clean and visualize data leading to a better understanding of the correlation between US GDP and key Economic indicators.
 
 ## Work Experience
 **Certified Luxury Motors**
