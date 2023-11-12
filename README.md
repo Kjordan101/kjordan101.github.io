@@ -7,7 +7,7 @@
 - [Google Data Analytics Professional Certificate](https://coursera.org/share/03b4c57628268ff2b48a142573241118) | 
 
 ## Projects
-**Education's Effect on Income Case Study [(demo)](https://public.tableau.com/app/profile/kevin.jordan6632/viz/CareerProjecitonsbyEducation-dashboard/Dashboard1)**
+**Education's Effect on Income Case Study [(demo)](https://github.com/Kjordan101/Education-s-Effect-on-Income-Case-Study/blob/main/jobprojections.ipynb)**
 - Aggregated data available via the Bureau of Labor Statistics to study the effects of education on yearly income.
 - Utilized **Google Sheets** to clean data to be used in **Google BigQuery**.
 - Queried Data using **SQL** and **Python** via BigQuery API in order to develop visualizations and draw insight on employment data.
