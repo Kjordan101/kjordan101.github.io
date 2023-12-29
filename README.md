@@ -11,6 +11,7 @@
 - Conducted comprehensive analysis using **Python**, using **Pandas, Matplotlib, Seaborn**, and multiple libraries to asses the correlations between BMI, mortality probability, and life expectancy as they relate to insurance cost.
 - Developed comprehensive visualizations to unearth valuable insights into the relationships between different variables within the data set.
 - Employed Random Forest Regression to accurately predict insurance expenses and mortality probability, achieving an outstanding 85% and 95% accuracy respectively, aiding in precise risk assessment for insurance models.
+
 **Education's Effect on Income Case Study [(demo)](https://github.com/Kjordan101/Education-s-Effect-on-Income-Case-Study/blob/main/jobprojections.ipynb)**
 - Conducted analysis leveraging data available via Bureau of Labor Statistics, investigating the intricate relationship between educational attainment and annual income.
 - Employed **Google Sheets** to meticulously refine and preprocess raw data, optimizing its suitability for integration into **Google BigQuery**.
