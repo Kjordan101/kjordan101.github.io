@@ -7,15 +7,19 @@
 - [Google Data Analytics Professional Certificate](https://coursera.org/share/03b4c57628268ff2b48a142573241118) | 
 
 ## Projects
+**Insurance Premiums and Probability of Death Case Study** [(demo)](https://www.kaggle.com/code/kevinjordan323232/insurance-project)**
+- Conducted comprehensive analysis using **Python**, using **Pandas, Matplotlib, Seaborn**, and multiple libraries to asses the correlations between BMI, mortality probability, and life expectancy as they relate to insurance cost.
+- Developed comprehensive visualizations to unearth valuable insights into the relationships between different variables within the data set.
+- Employed Random Forest Regression to accurately predict insurance expenses and mortality probability, achieving an outstanding 85% and 95% accuracy respectively, aiding in precise risk assessment for insurance models.
 **Education's Effect on Income Case Study [(demo)](https://github.com/Kjordan101/Education-s-Effect-on-Income-Case-Study/blob/main/jobprojections.ipynb)**
-- Aggregated data available via the Bureau of Labor Statistics to study the effects of education on yearly income.
-- Utilized **Google Sheets** to clean data to be used in **Google BigQuery**.
+- Conducted analysis leveraging data available via Bureau of Labor Statistics, investigating the intricate relationship between educational attainment and annual income.
+- Employed **Google Sheets** to meticulously refine and preprocess raw data, optimizing its suitability for integration into **Google BigQuery**.
 - Queried Data using **SQL** and **Python** via BigQuery API in order to develop visualizations and draw insight on employment data.
-- Developed a dashboard using **Tableau** to highlight the most important findings of the case study.
+- Crafted an intuitive **Tableau** dashboard to showcase pivotal discoveries from the study.
 
 **Cyclistic Bike Share Case Study [(demo)](https://github.com/Kjordan101/cyclistic-bike-share/blob/main/cyclistic-bike-share-case-study.ipynb)** 
 - Developed a case study using data from a fictional bike-sharing company Cyclistic as a capstone project for the Google Data Analytics Professional Certificate.
-- Compiled data from across multiple CSVs into a single data frame in order to organize data efficiently.
+- Compiled data from across multiple CSVs into a single data frame to organize data efficiently.
 - Utilized libraries such as **tidyr, dplyr, and ggplot in R** to clean, manipulate, and visualize data from a data frame of over 1 million entries.
 - Assessed user activity to locate business inefficiencies and created insightful visualizations to communicate these findings.
 
