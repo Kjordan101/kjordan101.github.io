@@ -8,7 +8,7 @@
 
 ## Projects
 **Insurance Premiums and Probability of Death Case Study [(demo)](https://www.kaggle.com/code/kevinjordan323232/insurance-project)**
-- Conducted comprehensive analysis using **Python**, using **Pandas, Matplotlib, Seaborn**, and multiple libraries to asses the correlations between BMI, mortality probability, and life expectancy as they relate to insurance cost.
+- Conducted comprehensive analysis using **Python** with **Pandas, Matplotlib, Seaborn**, and other libraries to assess the correlation between BMI, mortality probability, and life expectancy as they relate to insurance cost.
 - Developed comprehensive visualizations to unearth valuable insights into the relationships between different variables within the data set.
 - Employed Random Forest Regression to accurately predict insurance expenses and mortality probability, achieving an outstanding 85% and 95% accuracy respectively, aiding in precise risk assessment for insurance models.
 
