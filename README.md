@@ -30,11 +30,12 @@
 
 ## Work Experience
 **Certified Luxury Motors**
-Inventory Analyst
-- Utilized DMS software CDK Drive to organize purchasing data of over 5,000 vehicles as well as over 1,000 invoices.
+Accounting/DMV Associate
+- Utilized DMS software CDK Drive to track and manage over $600,000 in payments and transactions.
+- Assessed financial statements to ensure accuracy and compliance with accounting standards.
 - Collaborated with cross-functional teams to accurately asses customer information to ensure that all paperwork meets the requirements of both the NYS DMV and out-of-state DMV/MVDs.
-- Maintained a database of over 5,000 vehicle purchases utilizing Google Sheets and introduced descriptive features and conditional formatting to further increase data accuracy.
-
+- Maintained a database of over 5,000 vehicle purchases utilizing Google Sheets and led the introduction of descriptive features to further increase data accuracy and accessibility.
+- Devised ad-hoc reporting solutions utilizing MS Excel that provided comprehensive visibility into inventory dynamics and streamlined the tracking of vehicle availability for stakeholders.
 **Google ExploreCSR**
 Student Researcher
 - Participated in a student research program hosted by Google at Hunter College aimed at teaching students the fundamentals of Machine Learning, Data Science, and Data Analytics.
