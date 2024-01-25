@@ -36,6 +36,7 @@ Accounting/DMV Associate
 - Collaborated with cross-functional teams to accurately asses customer information to ensure that all paperwork meets the requirements of both the NYS DMV and out-of-state DMV/MVDs.
 - Maintained a database of over 5,000 vehicle purchases utilizing Google Sheets and led the introduction of descriptive features to further increase data accuracy and accessibility.
 - Devised ad-hoc reporting solutions utilizing MS Excel that provided comprehensive visibility into inventory dynamics and streamlined the tracking of vehicle availability for stakeholders.
+
 **Google ExploreCSR**
 Student Researcher
 - Participated in a student research program hosted by Google at Hunter College aimed at teaching students the fundamentals of Machine Learning, Data Science, and Data Analytics.
