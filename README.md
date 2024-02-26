@@ -8,14 +8,14 @@
 
 ## Projects
 **Insurance Premiums and Probability of Death Case Study [(demo)](https://www.kaggle.com/code/kevinjordan323232/insurance-project)**
-- Conducted comprehensive analysis using **Python** with **Pandas, Matplotlib, Seaborn**, and other libraries to assess the correlation between BMI, mortality probability, and life expectancy as they relate to insurance cost.
+- Conducted comprehensive analysis utilizing **Python** with **Pandas, Matplotlib, Seaborn** to assess the correlations between BMI, mortality probability, and life expectancy as they relate to insurance cost.
 - Developed comprehensive visualizations to unearth valuable insights into the relationships between different variables within the data set.
-- Employed Random Forest Regression to accurately predict insurance expenses and mortality probability, achieving an outstanding 85% and 95% accuracy respectively, aiding in precise risk assessment for insurance models.
+- Employed Random Forest Regression to accurately predict insurance expenses and mortality probability, achieving 85% and 95% accuracy respectively, aiding in precise risk assessment for insurance models.
 
 **Education's Effect on Income Case Study [(demo)](https://github.com/Kjordan101/Education-s-Effect-on-Income-Case-Study/blob/main/jobprojections.ipynb)**
 - Conducted analysis leveraging data available via Bureau of Labor Statistics, investigating the intricate relationship between educational attainment and annual income.
 - Employed **Google Sheets** to meticulously refine and preprocess raw data, optimizing its suitability for integration into **Google BigQuery**.
-- Queried Data using **SQL** and **Python** via BigQuery API in order to develop visualizations and draw insight on employment data.
+- Queried Data using **SQL** and **Python** via BigQuery API to devise pivot tables to assess data and develop visualizations.
 - Crafted an intuitive **Tableau** dashboard to showcase pivotal discoveries from the study.
 
 **Cyclistic Bike Share Case Study [(demo)](https://github.com/Kjordan101/cyclistic-bike-share/blob/main/cyclistic-bike-share-case-study.ipynb)** 
@@ -31,14 +31,6 @@
 ## Work Experience
 **Certified Luxury Motors**
 Accounting/DMV Associate
-- Utilized DMS software CDK Drive to track and manage over $600,000 in payments and transactions.
-- Assessed financial statements to ensure accuracy and compliance with accounting standards.
-- Collaborated with cross-functional teams to accurately asses customer information to ensure that all paperwork meets the requirements of both the NYS DMV and out-of-state DMV/MVDs.
-- Maintained a database of over 5,000 vehicle purchases utilizing Google Sheets and led the introduction of descriptive features to further increase data accuracy and accessibility.
-- Devised ad-hoc reporting solutions utilizing MS Excel that provided comprehensive visibility into inventory dynamics and streamlined the tracking of vehicle availability for stakeholders.
 
 **Google ExploreCSR**
 Student Researcher
-- Participated in a student research program hosted by Google at Hunter College aimed at teaching students the fundamentals of Machine Learning, Data Science, and Data Analytics.
-- Worked on projects that included cleaning data from Amazon reviews for sentiment analysis and utilizing the FRED API to draw inferences on economic data.
-- Completed a capstone project in which I analyzed economic data using Python to better understand how economic indicators correlated with GDP.
